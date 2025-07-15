@@ -21,7 +21,7 @@ Download and install
 
 ------
 
-The asset store service (ASSET) provides secure storage and management of sensitive data less than 1024 bytes in size, including passwords, app tokens, and other critical data (such as bank card numbers).
+The asset store service (ASSET) provides secure storage and management of sensitive data less than 1024 bytes in size, including passwords, app tokens, and other critical data (such as bank card numbers).    
 AssetUtil is a utility class based on the Asset Store Kit encapsulation, which can be used for secure storage of users' short sensitive data, such as accounts, passwords, etc Token、 Device ID, etc.
 
 
