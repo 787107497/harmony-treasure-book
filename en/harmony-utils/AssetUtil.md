@@ -69,7 +69,7 @@ ToastUtil.showToast("移除成功!");
 ```
 
 
-## Complete example code
+## Full Code Example
 
 ------
 
