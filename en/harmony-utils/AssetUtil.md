@@ -1,4 +1,4 @@
-# AssetUtils, a key asset storage service tool class
+# AssetUtil, a key asset storage service tool class
 
 ## Introduction and description of harmony-utils
 
@@ -16,6 +16,14 @@ Download and install
     AppUtil.init(this.context);
   }
  ```
+
+## Introduction and Explanation
+
+------
+
+The asset store service (ASSET) provides secure storage and management of sensitive data less than 1024 bytes in size, including passwords, app tokens, and other critical data (such as bank card numbers).
+
+
 
 ## API methods and usage
 
