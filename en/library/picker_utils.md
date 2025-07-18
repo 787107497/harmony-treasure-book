@@ -60,7 +60,7 @@ For more information, please refer to[如何安装 OpenHarmony ohpm 包](https:/
 | canIUseScan | Determine whether the current device supports code capabilities |
 
 
-## Full Code Example
+## Code Example
 
 ------
 
