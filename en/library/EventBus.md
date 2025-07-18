@@ -67,8 +67,8 @@ EventBus.off('id');
 EventBus.offAll();
 ```
 
-## Code Example
-
+## Full Code Example
+Full
 ------
 
 ```
