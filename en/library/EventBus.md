@@ -68,7 +68,6 @@ EventBus.offAll();
 ```
 
 ## Full Code Example
-Full
 ------
 
 ```
